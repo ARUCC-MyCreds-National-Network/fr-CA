@@ -1,6 +1,6 @@
 ## MesCertif<sup>MC</sup>
 
-[MesCertif<sup>MC</sup>](www.mescertif.ca) offre aux étudiantes et aux étudiants un accès rapide et facile à leurs microcertifications et autres diplômes officiels d'établissements d'enseignement supérieur canadiens. MesCertif<sup>MC</sup> permet aux étudiantes, aux étudiants, aux diplômées et aux diplômés d’accéder à un portail numérique sécurisé, à partir duquel ils sont en mesure de consulter leurs documents d’études officiels en format numérique et d’en partager l’accès au moment qui leur convient, en toute simplicité.
+[MesCertif<sup>MC</sup>](https://mescertif.ca/) offre aux étudiantes et aux étudiants un accès rapide et facile à leurs microcertifications et autres diplômes officiels d'établissements d'enseignement supérieur canadiens. MesCertif<sup>MC</sup> permet aux étudiantes, aux étudiants, aux diplômées et aux diplômés d’accéder à un portail numérique sécurisé, à partir duquel ils sont en mesure de consulter leurs documents d’études officiels en format numérique et d’en partager l’accès au moment qui leur convient, en toute simplicité.
 
 ## À propos du projet
 
