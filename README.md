@@ -112,14 +112,16 @@ Pour en savoir davantage, consultez le site Web de l’OIDF et les spécificatio
 -	OpenID Connect (en anglais seulement)
 -	OpenID Connect Credential Provider (en anglais seulement)
 
-Remerciements
+### Remerciements
 
 Merci à tous nos partenaires et à nos contributeurs qui ont été impliqués dans ce projet, en particulier l’ARUCC, Digitary et MATTR.
 
-Licence
+### Licence
 
-Copyright (C) 2021 T-Systems International GmbH et tous les autres contributeurs
+Copyright (C) 2021 T-Systems International GmbH et tous les autres contributeurs.
+
 Sous licence Apache License, Version 2.0 (la « licence ») ; ce fichier ne peut être utilisé qu’en conformité avec la licence.
+
 Vous pouvez obtenir une copie de la licence à https://www.apache.org/licenses/LICENSE-2.0.
 
 Sauf si la loi applicable l’exige ou si vous y consentez par écrit, les logiciels distribués sous la licence sont distribués « TELS QUELS », SANS GARANTIES NI CONDITIONS D’AUCUNE SORTE, expresses ou implicites. Consultez la LICENCE pour les termes particuliers qui régissent les autorisations et les limitations qui s’appliquent.
