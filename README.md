@@ -42,13 +42,13 @@ Ci-dessous, les principaux avantages associés aux identifiants décentralisés.
   - Ils servent à préserver la confidentialité, la transparence et la confiance de l’utilisateur ou de l’utilisatrice
   - Ils améliorent les pistes de vérification en conformité avec le respect des normes
 
-Pour en savoir davantage sur les identifiants décentralisés, consultez les articles W3C (en anglais) ou Microsoft (en français). Vous pouvez également visionner des vidéos en anglais sur le même sujet sur la chaîne YouTube de MATTR.
+Pour en savoir davantage sur les identifiants décentralisés, consultez les articles [W3C](https://www.w3.org/TR/2022/REC-did-core-20220719/) (en anglais) ou [Microsoft](https://experiences.microsoft.fr/articles/cybersecurite/derriere-lidentite-decentralisee-lenjeu-des-standards-emergents/) (en français). Vous pouvez également visionner des [vidéos](https://www.youtube.com/watch?v=gWgAgpfLEIQ&list=PL1v34OMpKjALowB6oxDYmCvoYfWeiUe_4&index=5) en anglais sur le même sujet sur la chaîne YouTube de MATTR.
 
 - #### Modèle de données d’attestations vérifiables v1.1
 
-Les attestations vérifiables sont un modèle de données standard du W3C pour exprimer des attestations ou des certificats numériques cryptographiquement sécurisés sur le Web.
+Les [attestations vérifiables](https://www.w3.org/TR/vc-data-model/) sont un modèle de données standard du W3C pour exprimer des attestations ou des certificats numériques cryptographiquement sécurisés sur le Web.
 
-Bien qu’elles fassent toutes deux partie du modèle de données d’attestations vérifiables (VC en anglais), les attestations vérifiables - VC (en anglais) se distinguent des présentations vérifiables - VP (en anglais). Les présentations sont généralement générées ou dérivées des attestations et présentées par les titulaires des certificats pour vérification.
+Bien qu’elles fassent toutes deux partie du modèle de données d’attestations vérifiables (VC en anglais), les [attestations vérifiables - VC](https://www.w3.org/TR/vc-data-model/#credentials) (en anglais) se distinguent des [présentations vérifiables - VP](https://github.com/ARUCC-MyCreds-National-Network/en-CA/blob/main/w3.org/TR/vc-data-model/#presentations) (en anglais). Les présentations sont généralement générées ou dérivées des attestations et présentées par les titulaires des certificats pour vérification.
 
 Le modèle de données des attestations vérifiables définit deux syntaxes de données concrètes, JSON et JSON-LD. JSON-LD permet au modèle de données d’être extensible et interopérable tout en restant distribué dans son architecture.
 
@@ -59,23 +59,23 @@ Ci-dessous, quelques avantages associés aux attestations vérifiables.
 - Assurent le contrôle sur le partage d’information
 - Permettent la présentation de plusieurs attestations à la fois
 
-Pour en savoir davantage sur le modèle de données des attestations vérifiables, consultez le W3C (en anglais). Vous pouvez également visionner des vidéos sur la chaîne MATTR.
+Pour en savoir davantage sur le modèle de données des attestations vérifiables, consultez le [W3C](https://www.w3.org/) (en anglais). Vous pouvez également visionner des vidéos sur la chaîne [MATTR](https://www.youtube.com/watch?v=6H099_hTRc4&list=PL1v34OMpKjALowB6oxDYmCvoYfWeiUe_4&index=6).
 
 Organisations internationales qui soutiennent l’identité numérique et la confiance
 - #### W3C (World Wide Web Consortium)
 
 Le World Wide Web Consortium (W3C) est une communauté internationale de conception de normes ouvertes, de protocoles et de lignes directrices pour assurer la croissance à long terme du Web.
 
-Pour en savoir davantage, consultez le site Web du W3C (en anglais seulement).
+Pour en savoir davantage, consultez le site Web du [W3C](https://www.w3.org/) (en anglais seulement).
 
 Ci-dessous, la liste des spécifications sur lesquelles le W3C a travaillé dans l’espace des identités décentralisées.
 
-- JSON-LD (en anglais seulement)
--	Linked Data Proofs (en anglais seulement)
--	Revocation List 2020 (en anglais seulement)
--	Verifiable Credentials Data Model (en anglais seulement)
--	Verifiable Presentation Request Specification (en anglais seulement)
--	Confidential Storage (en anglais seulement)
+- [JSON-LD](https://www.w3.org/TR/json-ld/) (en anglais seulement)
+-	[Linked Data Proofs](https://w3c-ccg.github.io/data-integrity-spec/) (en anglais seulement)
+-	[Revocation List 2020](https://w3c-ccg.github.io/vc-status-rl-2020/) (en anglais seulement)
+-	[Verifiable Credentials Data Model]()https://www.w3.org/TR/vc-data-model/) (en anglais seulement)
+-	[Verifiable Presentation Request Specification](https://w3c-ccg.github.io/vp-request-spec/) (en anglais seulement)
+-	[Confidential Storage](https://identity.foundation/confidential-storage/) (en anglais seulement)
 
 - ####	DIF (Decentralised Identity Foundation)
 
