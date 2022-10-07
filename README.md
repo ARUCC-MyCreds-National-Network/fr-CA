@@ -25,7 +25,7 @@ Pour ce projet, la plateforme MATTR est optimisée pour aider Digitary à dével
 
 Digitary fournit des solutions dans le secteur de l’éducation pour l’émission et la vérification en ligne de documents d’études officiels, dont les diplômes, les relevés de notes, les attestations et autres.
 
-Pour ce projet, Digitary, en collaboration avec MATTR et l’ARUCC, assure la mise en place d’une chaîne de valeur complète de certificats numériques. La technologie Digitary CORE alimente le réseau national MesCertifMC de l’ARUCC.
+Pour ce projet, Digitary, en collaboration avec MATTR et l’ARUCC, assure la mise en place d’une chaîne de valeur complète de certificats numériques. La technologie Digitary CORE alimente le réseau national MesCertif<sup>MC</sup> de l’ARUCC.
 
 ## Normes et spécifications
 
@@ -54,10 +54,10 @@ Le modèle de données des attestations vérifiables définit deux syntaxes de d
 
 Ci-dessous, quelques avantages associés aux attestations vérifiables.
 
-  - Définies sur des normes communes (W3C) pour une meilleure interopérabilité
-  -	Sécurisées cryptographiquement à l’aide de signatures numériques
-  -	Assurent le contrôle sur le partage d’information
-  - Permettent la présentation de plusieurs attestations à la fois
+- Définies sur des normes communes (W3C) pour une meilleure interopérabilité
+- Sécurisées cryptographiquement à l’aide de signatures numériques
+- Assurent le contrôle sur le partage d’information
+- Permettent la présentation de plusieurs attestations à la fois
 
 Pour en savoir davantage sur le modèle de données des attestations vérifiables, consultez le W3C (en anglais). Vous pouvez également visionner des vidéos sur la chaîne MATTR.
 
@@ -70,12 +70,12 @@ Pour en savoir davantage, consultez le site Web du W3C (en anglais seulement).
 
 Ci-dessous, la liste des spécifications sur lesquelles le W3C a travaillé dans l’espace des identités décentralisées.
 
-    - JSON-LD (en anglais seulement)
-    -	Linked Data Proofs (en anglais seulement)
-    -	Revocation List 2020 (en anglais seulement)
-    -	Verifiable Credentials Data Model (en anglais seulement)
-    -	Verifiable Presentation Request Specification (en anglais seulement)
-    -	Confidential Storage (en anglais seulement)
+- JSON-LD (en anglais seulement)
+-	Linked Data Proofs (en anglais seulement)
+-	Revocation List 2020 (en anglais seulement)
+-	Verifiable Credentials Data Model (en anglais seulement)
+-	Verifiable Presentation Request Specification (en anglais seulement)
+-	Confidential Storage (en anglais seulement)
 
 - ####	DIF (Decentralised Identity Foundation)
 
@@ -83,12 +83,12 @@ Le DIF est un organisme axé sur l’ingénierie et qui agit comme centre de dé
 
 Ci-dessous, des spécifications du DIF.
 
-    -	DIDComm (en anglais seulement)
-    -	Well Known DID Configuration (en anglais seulement)
-    -	Universal Resolver (en anglais seulement)
-    -	Universal Registrar (en anglais seulement)
-    -	Credential Storage (en anglais seulement)
-    -	Sidetree Protocol (en anglais seulement)
+-	DIDComm (en anglais seulement)
+-	Well Known DID Configuration (en anglais seulement)
+-	Universal Resolver (en anglais seulement)
+-	Universal Registrar (en anglais seulement)
+-	Credential Storage (en anglais seulement)
+-	Sidetree Protocol (en anglais seulement)
 
 -	#### IETF (Internet Engineering Task Force)
 
@@ -98,10 +98,10 @@ Pour en savoir davantage, consultez le site Web de l’IETF (en anglais seulemen
 
 Ci-dessous, la liste des spécifications auxquelles l’IETF a contribué en termes d’espace d’identité.
 
-    -	JSON Web Message (en anglais seulement)
-    -	JSON Web Encryption (JWE) (en anglais seulement)
-    -	JSON Web Key (JWK) (en anglais seulement)
-    -	JSON Web Signature (JWS) (en anglais seulement)
+-	JSON Web Message (en anglais seulement)
+-	JSON Web Encryption (JWE) (en anglais seulement)
+-	JSON Web Key (JWK) (en anglais seulement)
+-	JSON Web Signature (JWS) (en anglais seulement)
 
 - ####	OIDF (OpenID Foundation)
 
@@ -109,8 +109,8 @@ La Fondation OpenID est un organisme international de normalisation à but non l
 
 Pour en savoir davantage, consultez le site Web de l’OIDF et les spécifications ci-dessous.
 
-    -	OpenID Connect (en anglais seulement)
-    -	OpenID Connect Credential Provider (en anglais seulement)
+-	OpenID Connect (en anglais seulement)
+-	OpenID Connect Credential Provider (en anglais seulement)
 
 ### Remerciements
 
