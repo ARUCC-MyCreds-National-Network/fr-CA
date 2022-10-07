@@ -1,6 +1,6 @@
 ## MesCertif<sup>MC</sup>
 
-MesCertif<sup>MC</sup> offre un accès rapide et facile aux microcertifications et autres diplômes officiels d’établissements d’enseignement supérieur canadiens et la possibilité de les partager en toute simplicité. 
+[MesCertif<sup>MC</sup>](www.mescertif.ca) offre un accès rapide et facile aux microcertifications et autres diplômes officiels d’établissements d’enseignement supérieur canadiens et la possibilité de les partager en toute simplicité. 
 
 Le projet MyCreds<sup>TM</sup>| MesCertif<sup>MC</sup> du passeport virtuel de compétences pour les microcertifications est un projet de création d’attestations vérifiables pour les dossiers académiques d’établissements d’enseignement postsecondaire canadiens.
 
@@ -68,27 +68,27 @@ Le World Wide Web Consortium (W3C) est une communauté internationale de concept
 
 Pour en savoir davantage, consultez le site Web du [W3C](https://www.w3.org/) (en anglais seulement).
 
-Ci-dessous, la liste des spécifications sur lesquelles le W3C a travaillé dans l’espace des identités décentralisées.
+Ci-dessous, la liste des spécifications sur lesquelles le W3C a travaillé dans l’espace des identités décentralisées. Le contenu des pages suivantes est disponible en anglais seulement.
 
-- [JSON-LD](https://www.w3.org/TR/json-ld/) (en anglais seulement)
--	[Linked Data Proofs](https://w3c-ccg.github.io/data-integrity-spec/) (en anglais seulement)
--	[Revocation List 2020](https://w3c-ccg.github.io/vc-status-rl-2020/) (en anglais seulement)
--	[Verifiable Credentials Data Model]()https://www.w3.org/TR/vc-data-model/) (en anglais seulement)
--	[Verifiable Presentation Request Specification](https://w3c-ccg.github.io/vp-request-spec/) (en anglais seulement)
--	[Confidential Storage](https://identity.foundation/confidential-storage/) (en anglais seulement)
+- [JSON-LD](https://www.w3.org/TR/json-ld/)
+-	[Linked Data Proofs](https://w3c-ccg.github.io/data-integrity-spec/)
+-	[Revocation List 2020](https://w3c-ccg.github.io/vc-status-rl-2020/)
+-	[Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
+-	[Verifiable Presentation Request Specification](https://w3c-ccg.github.io/vp-request-spec/)
+-	[Confidential Storage](https://identity.foundation/confidential-storage/)
 
 - ####	DIF (Decentralised Identity Foundation)
 
 Le DIF est un organisme axé sur l’ingénierie et qui agit comme centre de développement, de discussion et de gestion de toutes les activités nécessaires à la création et au maintien d’un écosystème interopérable et ouvert pour les identités décentralisées.
 
-Ci-dessous, des spécifications du DIF.
+Ci-dessous, des spécifications du DIF. Le contenu des pages suivantes est disponible en anglais seulement.
 
--	DIDComm (en anglais seulement)
--	Well Known DID Configuration (en anglais seulement)
--	Universal Resolver (en anglais seulement)
--	Universal Registrar (en anglais seulement)
--	Credential Storage (en anglais seulement)
--	Sidetree Protocol (en anglais seulement)
+-	[DIDComm](https://identity.foundation/didcomm-messaging/spec/)
+-	[Well Known DID Configuration](https://identity.foundation/.well-known/resources/did-configuration/)
+-	[Universal Resolver](https://github.com/decentralized-identity/universal-resolver)
+-	[Universal Registrar](https://github.com/decentralized-identity/universal-registrar)
+-	[Credential Storage](https://identity.foundation/confidential-storage/)
+-	[Sidetree Protocol](https://identity.foundation/working-groups/sidetree.html)
 
 -	#### IETF (Internet Engineering Task Force)
 
@@ -96,25 +96,25 @@ L’Internet Engineering Task Force (IETF) est une grande communauté internatio
 
 Pour en savoir davantage, consultez le site Web de l’IETF (en anglais seulement).
 
-Ci-dessous, la liste des spécifications auxquelles l’IETF a contribué en termes d’espace d’identité.
+Ci-dessous, la liste des spécifications auxquelles l’IETF a contribué en termes d’espace d’identité. Le contenu des pages suivantes est disponible en anglais seulement.
 
--	JSON Web Message (en anglais seulement)
--	JSON Web Encryption (JWE) (en anglais seulement)
--	JSON Web Key (JWK) (en anglais seulement)
--	JSON Web Signature (JWS) (en anglais seulement)
+-	[JSON Web Message](https://datatracker.ietf.org/doc/html/draft-looker-jwm-01)
+-	[JSON Web Encryption(JWE)](https://datatracker.ietf.org/doc/html/rfc7516)
+-	[JSON Web Key (JWK)](https://datatracker.ietf.org/doc/html/rfc7517)
+-	[JSON Web Signature (JWS)](https://datatracker.ietf.org/doc/html/rfc7515)
 
 - ####	OIDF (OpenID Foundation)
 
 La Fondation OpenID est un organisme international de normalisation à but non lucratif constitué d’entreprises et de particuliers engagés à faciliter, à promouvoir et à protéger les technologies OpenID.
 
-Pour en savoir davantage, consultez le site Web de l’OIDF et les spécifications ci-dessous.
+Pour en savoir davantage, consultez le site Web de l’OIDF et les spécifications ci-dessous. Le contenu des pages suivantes est disponible en anglais seulement.
 
--	OpenID Connect (en anglais seulement)
--	OpenID Connect Credential Provider (en anglais seulement)
+-	[OpenID Connect](https://openid.net/connect/)
+-	[OpenID Connect Credential Provider](https://mattrglobal.github.io/oidc-client-bound-assertions-spec/v0.1/)
 
 ### Remerciements
 
-Merci à tous nos partenaires et à nos contributeurs qui ont été impliqués dans ce projet, en particulier l’ARUCC, Digitary et MATTR.
+Merci à tous nos partenaires et à nos contributeurs qui ont été impliqués dans ce projet, en particulier l’[ARUCC](https://arucc.ca/fr/), [Digitary](https://www.digitary.net/) et [MATTR](https://mattr.global/).
 
 ### Licence
 
@@ -124,5 +124,5 @@ Sous licence Apache License, Version 2.0 (la « licence ») ; ce fichier ne peut
 
 Vous pouvez obtenir une copie de la licence à https://www.apache.org/licenses/LICENSE-2.0.
 
-Sauf si la loi applicable l’exige ou si vous y consentez par écrit, les logiciels distribués sous la licence sont distribués « TELS QUELS », SANS GARANTIES NI CONDITIONS D’AUCUNE SORTE, expresses ou implicites. Consultez la LICENCE pour les termes particuliers qui régissent les autorisations et les limitations qui s’appliquent.
+Sauf si la loi applicable l’exige ou si vous y consentez par écrit, les logiciels distribués sous la licence sont distribués « TELS QUELS », SANS GARANTIES NI CONDITIONS D’AUCUNE SORTE, expresses ou implicites. Consultez la [LICENCE](https://github.com/ARUCC-MyCreds-National-Network/en-CA/blob/main) pour les termes particuliers qui régissent les autorisations et les limitations qui s’appliquent.
 
